@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+簡単に貸出システムを利用できるWebサービスです。
+部活動や職場のレンタル器材管理のためにご利用いただけます。
+(未リリース)
 
-Things you may want to cover:
+## 主な機能
+- 個人アカウントの管理
+- 管理者の個人アカウントに紐付いた貸出アイテム管理
+- 貸出と返却の記録
+- 予約
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- アイテムごとの貸出履歴
+- アカウントごとの貸出履歴
